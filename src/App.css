@@ -4,7 +4,7 @@
 /*IMPORTING FONTS THROUGH CSS*/
 body {
     font-family: 'Khand', sans-serif !important;
-    background-color: #333;
+    background-color: #000;
     color: #fff;
     display: flex;
     justify-content: center;
