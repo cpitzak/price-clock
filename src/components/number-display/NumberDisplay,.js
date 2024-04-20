@@ -20,8 +20,9 @@ const NumberDisplay = () => {
       }
     };
 
+    const seconds = 60 * 1000;
     fetchBitcoinPrice(); // Fetch immediately on component mount
-    const intervalId = setInterval(fetchBitcoinPrice, 15000); // Fetch every 5000 milliseconds (5 seconds)
+    const intervalId = setInterval(fetchBitcoinPrice, seconds); // Fetch every 5000 milliseconds (5 seconds)
 
     return () => clearInterval(intervalId); // Cleanup interval on component unmount
   }, []);
