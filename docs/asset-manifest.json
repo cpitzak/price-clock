@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/price-clock/static/css/main.faf262e5.css",
+    "main.css": "/price-clock/static/css/main.bbf86632.css",
     "main.js": "/price-clock/static/js/main.a13a6084.js",
     "static/js/453.bb58f51a.chunk.js": "/price-clock/static/js/453.bb58f51a.chunk.js",
     "index.html": "/price-clock/index.html",
-    "main.faf262e5.css.map": "/price-clock/static/css/main.faf262e5.css.map",
+    "main.bbf86632.css.map": "/price-clock/static/css/main.bbf86632.css.map",
     "main.a13a6084.js.map": "/price-clock/static/js/main.a13a6084.js.map",
     "453.bb58f51a.chunk.js.map": "/price-clock/static/js/453.bb58f51a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.faf262e5.css",
+    "static/css/main.bbf86632.css",
     "static/js/main.a13a6084.js"
   ]
 }
